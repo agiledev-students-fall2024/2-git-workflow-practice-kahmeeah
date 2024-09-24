@@ -1,6 +1,4 @@
-# The GitHub Black Market That Helps Coders Cheat the Popularity Contest
-
-* <https://www.wired.com/story/github-stars-black-market-coders-cheat/>
+# [The GitHub Black Market That Helps Coders Cheat the Popularity Contest](https://www.wired.com/story/github-stars-black-market-coders-cheat)
 
 ## An interesting article I found
 
